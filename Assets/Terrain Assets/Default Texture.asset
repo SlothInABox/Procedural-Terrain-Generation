@@ -14,39 +14,39 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   autoUpdate: 1
   layers:
-  - texture: {fileID: 0}
+  - texture: {fileID: 2800000, guid: fab7fae0686521445908696562491302, type: 3}
     tint: {r: 0.25, g: 0.4604311, b: 1, a: 0}
     tintStrength: 0
     startHeight: 0
     blendStrength: 0
-    textureScale: 0
-  - texture: {fileID: 0}
+    textureScale: 10
+  - texture: {fileID: 2800000, guid: 36e5040a09e40d34d92003e08276bb73, type: 3}
     tint: {r: 0.9622642, g: 0.90339607, b: 0.43120328, a: 0}
     tintStrength: 0
-    startHeight: 0.137
-    blendStrength: 0
-    textureScale: 0
-  - texture: {fileID: 0}
+    startHeight: 0.078
+    blendStrength: 0.02
+    textureScale: 10
+  - texture: {fileID: 2800000, guid: eaa71c1cba5f2d64a81db32b978d9035, type: 3}
     tint: {r: 0.07008721, g: 0.4245283, b: 0.097344406, a: 0}
     tintStrength: 0
-    startHeight: 0.167
-    blendStrength: 0.03
-    textureScale: 0
-  - texture: {fileID: 0}
-    tint: {r: 0, g: 0, b: 0, a: 0}
+    startHeight: 0.088
+    blendStrength: 0.04
+    textureScale: 10
+  - texture: {fileID: 2800000, guid: d2703d8e6fc396c48907b7df5640527c, type: 3}
+    tint: {r: 0.3679245, g: 0.26252848, b: 0.18222676, a: 0}
     tintStrength: 0
-    startHeight: 0
-    blendStrength: 0
-    textureScale: 0
-  - texture: {fileID: 0}
-    tint: {r: 0, g: 0, b: 0, a: 0}
+    startHeight: 0.255
+    blendStrength: 0.107
+    textureScale: 10
+  - texture: {fileID: 2800000, guid: 12823d4973269dc4b9e4d8e9fb88ef07, type: 3}
+    tint: {r: 0.16981131, g: 0.11889795, b: 0.079298675, a: 0}
     tintStrength: 0
-    startHeight: 0
-    blendStrength: 0
-    textureScale: 0
-  - texture: {fileID: 0}
-    tint: {r: 0, g: 0, b: 0, a: 0}
+    startHeight: 0.431
+    blendStrength: 0.313
+    textureScale: 10
+  - texture: {fileID: 2800000, guid: eb281755a18eff64c8f527f904906d3b, type: 3}
+    tint: {r: 1, g: 1, b: 1, a: 0}
     tintStrength: 0
-    startHeight: 0
-    blendStrength: 0
-    textureScale: 0
+    startHeight: 0.843
+    blendStrength: 0.284
+    textureScale: 10
